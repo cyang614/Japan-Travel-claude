@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# 🔒 絕對不能上傳到 GitHub 的檔案
+.env
+.env.local
+.env.production
+
+# 系統檔案
+.DS_Store
